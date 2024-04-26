@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About me
-I'm currently a data science master's student at Stanford University. Prior to that, I obtained my bachelor's degree in Mathematics and Statistics at University of Illinois Urbana Champaign.
+### :smile: About me
+I'm currently a Data Science master's student at Stanford University. Prior to that, I obtained my bachelor's degree in Mathematics and Statistics at University of Illinois Urbana Champaign.
 
 I enjoy leveraging data-driven insights and SOA machine learning models to solve real-world challenges, spanning from optimizing models for better performance to mitigating bias in LLM.
 
@@ -30,7 +30,7 @@ I had the privilege of collaborating with the Bill & Melinda Gates Foundation on
 #### KPMG, Risk Consulting
 My experience at KPMG as a Data Analyst intern focused on building risk management platform. I conducted thorough data analysis on sales data from a client e-commerce company, uncovering insights into profit trends during the pandemic and building predictive models (_regression_, _tree_) to forecast store revenue.
 
-### My Research Interest
+### :classical_building:	My Research Interest
 I'm interested in the broad application of machine learning in real world problems. Some of my interests and projects are listed below:
 
 ##### Natural Language Processing
